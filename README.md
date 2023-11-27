@@ -1,0 +1,2 @@
+# samplenews
+sample news
