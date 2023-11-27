@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_icon_news"
+        android:title="新闻" />
+
+    <item
+        android:id="@+id/weather"
+        android:icon="@drawable/ic_icon_weather"
+        android:title="天气" />
+
+    <item
+        android:id="@+id/coupon"
+        android:icon="@drawable/ic_icon_coupon"
+        android:title="优惠券" />
+
+    <item
+        android:id="@+id/my_set"
+        android:icon="@drawable/ic_icon_my_set"
+        android:title="我的" />
+    <!-- 其他导航项 -->
+</menu>

@@ -1,0 +1,7 @@
+use samplenews;
+CREATE TABLE  sn_news(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    content TEXT NOT NULL,
+    imageUrl VARCHAR(255)
+);
