@@ -3,8 +3,11 @@
 ## 演示
 ### 前端
 #### iOS
+#### Android
+#### 后台管理
 
 ### 后端
+#### 数据采集
 
 ## 各个功能模块说明
 ### 前端
@@ -18,8 +21,8 @@
 | 名称 | 开发工具 | 功能 |
 | ---- | ---- | ---- |
 | Server | VScode | SampleNews的后台服务器容器，基于Nodejs开发 |
-| Webcrawler | PyCharm | SampleNews的后台新闻数据采集程序，基于Python开发 |
-| SQL | MySQL Workbench | 数据存储，基于MySQL |
+| Webcrawler | PyCharm | Python爬虫，SampleNews的后台新闻数据采集程序，基于Python开发 |
+| SQL | MySQL Workbench | 数据存储，基于MySQL开发 |
 
 ## 安装(CentOS)
 ### Python 安装执行
