@@ -3,8 +3,11 @@
 ## 演示
 ### 前端
 #### iOS
-![image](https://github.com/xingmen431/samplenews/blob/master/doc/iOS.gif)
+
+<img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_1.jpg" width="200"/> <img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_2.jpg" width="200"/><img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_3.jpg" width="200"/>
+<img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_4.png" width="200"/>
 #### Android
+
 #### 后台管理
 ![image](https://github.com/xingmen431/samplenews/blob/master/doc/vue.gif)
 ### 后端
