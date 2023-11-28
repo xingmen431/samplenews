@@ -3,12 +3,14 @@
 ## 演示
 ### 前端
 #### iOS
+![image](https://github.com/xingmen431/samplenews/blob/master/doc/iOS.gif)
 #### Android
 #### 后台管理
-
+![image](https://github.com/xingmen431/samplenews/blob/master/doc/vue.gif)
 ### 后端
-#### 数据采集
 
+#### 数据采集
+![image](https://github.com/xingmen431/samplenews/blob/master/doc/%E9%87%87%E9%9B%86.png)
 ## 各个功能模块说明
 ### 前端
 | 名称 | 开发工具 | 功能 |
