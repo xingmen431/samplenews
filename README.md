@@ -7,11 +7,11 @@
 <img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_1.jpg" width="200"/> <img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_2.jpg" width="200"/><img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_3.jpg" width="200"/>
 <img src="https://github.com/xingmen431/samplenews/blob/master/doc/iOS_4.png" width="200"/>
 #### Android
-
+<img src="https://github.com/xingmen431/samplenews/blob/master/doc/Android_1.jpg" width="200"/> <img src="https://github.com/xingmen431/samplenews/blob/master/doc/Android_2.jpg" width="200"/><img src="https://github.com/xingmen431/samplenews/blob/master/doc/Android_3.jpg" width="200"/>
 #### 后台管理
 ![image](https://github.com/xingmen431/samplenews/blob/master/doc/vue.gif)
-### 后端
 
+### 后端
 #### 数据采集
 ![image](https://github.com/xingmen431/samplenews/blob/master/doc/%E9%87%87%E9%9B%86.png)
 ## 各个功能模块说明
