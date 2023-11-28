@@ -53,4 +53,5 @@
 | ---- | ---- |---- |
 | Volley | 一个能让Android的网络请求更简单快捷的Http库 |Volley集成了AsyncHttpClient和Universal-Image-Loader的优点，既可以像AsyncHttpClient一样非常简单地进行HTTP通信，也可以像Universal-Image-Loader一样轻松加载网络上的图片。但是对大数据量的网络操作如文件的下载支持较差|
 | Glide | Google推荐的图片加载和缓存的库 |专注于平滑滚动时的流畅加载, Google开源项目, 2014年Google I/O 上被推荐|
-| BeautifulSoup4 | 一个HTML/XML的解析器，主要的功能也是如何解析和提取HTML/XML 数据 |一个Python库，用于解析HTML和XML文档，并提供了一种简单而直观的方式来浏览、搜索和操作这些文档。 它将HTML/XML文档转换成一个Python对象树，可以使用Python的语法和方法来方便地提取所需的信息。|
+| BeautifulSoup4 | 一个HTML/XML的解析器，主要的功能也是如何解析和提取HTML/XML 数据 |一个Python库，用于解析HTML和XML文档，并提供了一种简单而直观的方式来浏览、搜索和操作这些文档。 它将HTML/XML文档转换成一个Python对象树，可以使用Python的语法和方法来方便地提取所需的信息|
+| BeautifulSoup4 | 专门对外提供API接口服务器 |一个简洁而灵活的 node.js Web应用框架, 提供了一系列强大特性帮助你创建各种 Web 应用，和丰富的 HTTP 工具|
