@@ -49,6 +49,11 @@
 # npm install -g @vue/cli
 # vue --version
 ```
+### Node.js环境和vue环境的执行
+```
+# node server.js
+# vue serve App.vue
+```
 ### MySQL环境的安装
 ```
 # yum install -y mysql-community-server
