@@ -12,7 +12,7 @@
 | ---- | ---- | ---- |
 | Android | AndroidStudio | SampleNews的Android版。具有新闻预览、详细查看、突发新闻接收，优惠券（TODO）、消息交流（TODO）、会员信息管理（TODO）等功能 |
 | iOS | Xcode | SampleNews的iOS版。具有新闻预览，详细查看、突发新闻接收，优惠券（TODO）、消息交流（TODO）、会员信息管理（TODO）等功能|
-| BSAdmin | VScode | SampleNews的后台管理页面，基于Vue开发。可以对后台采集到的新闻进行增加、删除，查看等操作 |
+| BSAdmin | VScode | SampleNews的后台管理页面，基于Vue开发。可以对后台采集到的新闻数据进行增加、删除，查看等操作。生产环境需要安装Apache、Ngnix等服务器 |
 
 ### 后端
 | 名称 | 开发工具 | 功能 |
