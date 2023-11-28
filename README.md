@@ -52,7 +52,7 @@
 ### Node.js环境和vue环境的执行
 ```
 # node server.js
-# vue serve App.vue
+# npm run serve
 ```
 ### MySQL环境的安装
 ```
