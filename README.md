@@ -1,5 +1,5 @@
 # samplenews
-sample news
+
 ## 演示
 ### 前端
 #### iOS
@@ -10,9 +10,9 @@ sample news
 ### 前端
 | 名称 | 功能 |
 | ---- | ---- |
-| Android | SampleNews的Android版，具有新闻预览，详细查看，突发新闻接收，优惠券（TODO）,消息（TODO），会员信息管理（TODO）等功能 |
-| iOS | SampleNews的iOS版，具有新闻预览，详细查看，突发新闻接收，优惠券（TODO）,消息（TODO），会员信息管理（TODO）等功能|
-| BSAdmin | SampleNews的后台管理页面，基于Vue开发，可以对后台采集到的新闻进行增加，删除，查看等操作 |
+| Android | SampleNews的Android版。具有新闻预览、详细查看、突发新闻接收，优惠券（TODO）、消息交流（TODO）、会员信息管理（TODO）等功能 |
+| iOS | SampleNews的iOS版。具有新闻预览，详细查看，突发新闻接收，优惠券（TODO）,消息（TODO），会员信息管理（TODO）等功能|
+| BSAdmin | SampleNews的后台管理页面，基于Vue开发。可以对后台采集到的新闻进行增加、删除，查看等操作 |
 
 ### 后端
 | 名称 | 功能 |
@@ -37,6 +37,7 @@ sample news
 # yum install nodejs
 # node -v
 # npm -v
+# npm install express --save
 # npm install -g @vue/cli
 # vue --version
 ```
