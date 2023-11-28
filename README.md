@@ -8,18 +8,18 @@
 
 ## 各个功能模块说明
 ### 前端
-| 名称 | 功能 |
-| ---- | ---- |
-| Android | SampleNews的Android版。具有新闻预览、详细查看、突发新闻接收，优惠券（TODO）、消息交流（TODO）、会员信息管理（TODO）等功能 |
-| iOS | SampleNews的iOS版。具有新闻预览，详细查看，突发新闻接收，优惠券（TODO）,消息（TODO），会员信息管理（TODO）等功能|
-| BSAdmin | SampleNews的后台管理页面，基于Vue开发。可以对后台采集到的新闻进行增加、删除，查看等操作 |
+| 名称 | 开发工具 | 功能 |
+| ---- | ---- | ---- |
+| Android | AndroidStudio | SampleNews的Android版。具有新闻预览、详细查看、突发新闻接收，优惠券（TODO）、消息交流（TODO）、会员信息管理（TODO）等功能 |
+| iOS | Xcode | SampleNews的iOS版。具有新闻预览，详细查看，突发新闻接收，优惠券（TODO）,消息（TODO），会员信息管理（TODO）等功能|
+| BSAdmin | VScode | SampleNews的后台管理页面，基于Vue开发。可以对后台采集到的新闻进行增加、删除，查看等操作 |
 
 ### 后端
-| 名称 | 功能 |
-| ---- | ---- |
-| Server | SampleNews的后台服务器容器，基于Nodejs开发 |
-| Webcrawler | SampleNews的后台新闻数据采集程序，基于Python开发 |
-| SQL | 数据存储，基于MySQL |
+| 名称 | 开发工具 | 功能 |
+| ---- | ---- | ---- |
+| Server | VScode | SampleNews的后台服务器容器，基于Nodejs开发 |
+| Webcrawler | PyCharm | SampleNews的后台新闻数据采集程序，基于Python开发 |
+| SQL | MySQL Workbench | 数据存储，基于MySQL |
 
 ## 安装(CentOS)
 ### Python 安装执行
